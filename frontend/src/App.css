@@ -1,0 +1,22 @@
+.directory-link {
+  text-decoration: none;
+  color: #0b57d0;
+  font-weight: 500;
+}
+
+.directory-link:hover {
+  color: #083b8f;
+  text-decoration: underline;
+}
+
+.role-page {
+  min-height: calc(100vh - 48px);
+}
+
+.entry-hero {
+  background: linear-gradient(135deg, #eef4ff 0%, #f8fbff 55%, #eaf7ef 100%);
+}
+
+.list-group-item {
+  border-color: #edf2f7;
+}
